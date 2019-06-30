@@ -1,0 +1,75 @@
+{
+	"accounts": [
+		{
+			"title": "銀行",
+			"data": [
+				{
+					"name": "三井住友銀行",
+					"color": "#004831",
+					"detail": "浜松支店 普通"
+				},
+				{
+					"name": "住信SBIネット銀行",
+					"color": "#015AB4",
+					"detail": "101 代表口座 円普通"
+				},
+				{
+					"name": "静岡銀行",
+					"color": "#7C001A",
+					"detail": "浜松支店 普通"
+				}
+			]
+		},
+		{
+			"title": "カード",
+			"data": [
+				{
+					"name": "三井住友カード",
+					"color": "#004831",
+					"detail": "クラシックカード"
+				},
+				{
+					"name": "dカード",
+					"color": "#FF3C01",
+					"detail": "dカード ゴールド",
+					"error": "ConfirmLoginInformation"
+				}
+			]
+		},
+		{
+			"title": "電子マネー",
+			"data": [
+				{
+					"name": "Kyash",
+					"color": "#19ABE2"
+				},
+				{
+					"name": "モバイルSuica",
+					"color": "#6FB82B"
+				},
+				{
+					"name": "LINE Pay",
+					"color": "#02C43E"
+				}
+			]
+		},
+		{
+			"title": "ポイント",
+			"data": [
+				{
+					"name": "ワールドプレゼント",
+					"color": "#004831"
+				},
+				{
+					"name": "Tポイント",
+					"color": "#004097"
+				},
+				{
+					"name": "Tポイント",
+					"color": "#004097",
+					"detail": "期間固定Tポイント"
+				}
+			]
+		}
+	]
+}
